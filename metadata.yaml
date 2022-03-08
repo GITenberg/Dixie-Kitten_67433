@@ -1,0 +1,30 @@
+_repo: Dixie-Kitten_67433
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tappan, Eva March
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '5176'
+    url: http://www.gutenberg.org/2009/agents/5176
+    wikipedia: https://en.wikipedia.org/wiki/Eva_March_Tappan
+description: ''
+gutenberg_issued: '2022-02-18'
+identifiers:
+  gutenberg: '67433'
+language: en
+pgterms:marc905: 20180616125120tappan
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Sam W. and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Houghton Mifflin Company,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Cats -- Juvenile fiction'
+- GITenberg
+title: Dixie Kitten
+url: http://www.gutenberg.org/ebooks/67433
